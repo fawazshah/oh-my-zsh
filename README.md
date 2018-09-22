@@ -1,4 +1,4 @@
-This fork is meant to work with my [zsh-config](https://github.com/fawazshah/zsh-config)
+This fork is meant to work with my [zsh-config](https://github.com/fawazshah/zsh-config).
 
 ## Changes from the original
 
