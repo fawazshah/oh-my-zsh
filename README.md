@@ -1,3 +1,21 @@
+This fork is meant to work with my [zsh-config](https://github.com/fawazshah/zsh-config)
+
+## Changes from the original
+
+* Added powerlevel9k theme as a submodule
+* Add `gch` as an alias for `git checkout` and `gpl` as an alias for `git pull`
+
+## Installation instructions
+
+Run the following commands:
+
+```
+cd ~
+git clone --recurse-submodules https://github.com/fawazshah/oh-my-zsh
+mv oh-my-zsh .oh-my-zsh
+```
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
