@@ -2,7 +2,7 @@ This fork is meant to work with my [zsh-config](https://github.com/fawazshah/zsh
 
 ## Changes from the original
 
-* Added powerlevel9k theme as a submodule
+* Added powerlevel10k theme as a submodule
 * Add `gch` as an alias for `git checkout` and `gpl` as an alias for `git pull`
 
 ## Installation instructions
